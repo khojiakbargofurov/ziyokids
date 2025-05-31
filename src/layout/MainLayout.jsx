@@ -9,7 +9,7 @@ function MainLayout() {
       <header>
         <Navbar />
       </header>
-      <main className="container mx-auto px-4 font-poppins font-sans">
+      <main className="container mx-auto px-4 font-sans">
         <Outlet />
       </main>
       <footer>
